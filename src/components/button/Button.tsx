@@ -9,7 +9,7 @@ const buttonStyles = cva(
         secondary: "bg-neutral-900",
         tertiary:
           "border border-blue-700 hover:bg-blue-700 hover:text-white focus:bg-blue-700 focus:text-white",
-        danger: "bg-red-600",
+        danger: "bg-red-700",
         ghost: "border-transparent",
         "danger-ghost": "",
         "danger-tertiary": "border border-red-600",
